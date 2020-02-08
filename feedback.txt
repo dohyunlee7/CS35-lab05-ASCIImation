@@ -1,0 +1,10 @@
+========== Grade ==========
+
+Your score is 100 out of 100
+
+======== Feedback ========
+
+- Great that all your tests passed
+- Code can handle big lists well. 
+- implemented in getMovie in correct runtime! Well done
+- Nice code commenting. 
